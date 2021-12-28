@@ -12,6 +12,7 @@
   - A nova variação da `EL` tinhas algumas diferenças da  contidada no `JSP 2.0 EL`
 - Aparitr da `JSP 2.1` e do `JSF 1.2` criou-se uma `EL` unificada
 - Apartir da versão `3.0` a especificação da `EL` tornou independente de outras tecnologias
+- Apartir da versão `4.0` ocorreu a transição do namespace `javax` para o `jakarta`.
 
 ## Overview
 - `EL` foi criada para ser usada na camada de apresentação em aplicativos da web
